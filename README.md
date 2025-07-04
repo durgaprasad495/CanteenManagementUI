@@ -1,2 +1,2 @@
 # CanteenManagementUI
-angular UI App for canteen management system
+angular UI App for canteen management system, updated
